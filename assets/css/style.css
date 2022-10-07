@@ -1,3 +1,5 @@
+
+/* universal code */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +10,8 @@ body {
     background-color: #d9dcd6;
 }
 
-/* changed .header to header after refactoring the html */
+/* header / nav code starts */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,7 +28,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* changed the header div to nav and corrected the css to match */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,6 +46,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* header / nav end */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -51,6 +56,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* hero start */
 
 .hero {
     height: 800px;
@@ -61,6 +68,9 @@ p {
     background-position: center;
 }
 
+/* hero end */
+
+/* main content start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -189,8 +199,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* main content end */
 
-/* changed the .footer to footer and refactoring the html */
+
+/* footer start */
 footer {
     padding: 30px;
     clear: both;
@@ -201,3 +213,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer end */
