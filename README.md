@@ -10,7 +10,7 @@ Refactor HTML and adjust the CSS
 
 ## Screenshot
 ![image](https://github.com/jsmauch80/Code-Refactor/blob/main/assets/images/refactor1.png)
-![image (2)]![image](https://github.com/jsmauch80/Code-Refactor/blob/main/assets/images/refactor2.png)
+![image](https://github.com/jsmauch80/Code-Refactor/blob/main/assets/images/refactor2.png)
 
 ## Installation
 
